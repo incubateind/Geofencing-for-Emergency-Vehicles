@@ -1,23 +1,29 @@
 # Geofencing for Emergency Vehicles
+
 ## Problem Statement
+
 The ever-increasing traffic in India is an intensifying problem. The vehicle density is increasing at a much faster pace than road length, thus causing congestion. This congestion may impede the ability of emergency vehicles to reach the site of a traffic incident or other disaster in a fast and reliable manner. It is imperative that emergency dispatchers use real time traffic information in order to improve dispatching of Emergency Medical Services (EMS) to the disaster site. It is thus necessary for such services to react to emergency calls with minimum delay.
 
 # Objective
+
 The objective is to solve this problem by using geofencing techniques to enable easy navigation of emergency vehicles ensuring them reaching destination on time.
 
 **Geofencing** is the use of GPS or RFID technology to create a virtual geographic boundary, enabling software to trigger a response when a mobile device enters or leaves a particular area. A geo-fence could be dynamically generated—as in a radius around a point location, or a geo-fence can be a predefined set of boundaries.
 
 # Implementation
+
 A webapp which lets the ambulance driver to get information about the traffic so that it can request TCMS(Traffic control management system) to turn the traffic signals to green when the vehicle reaches near any signal so as to avoid traffic and delay in taking patient to hospital. This will help in providing a better approach towards the patient's safety.
 
 Landing Page for the Application.
 
 # Desktop View
+
 <p align="center">
 <img src="./Screenshots/desktop_view.png" width="300">
 </p>
 
 # Mobile View
+
 <p align="center">
 <img src="./Screenshots/mobile_view.png" width="300">
 </p>
@@ -36,3 +42,8 @@ Now, the implementation is to be done via a webapplication interface, which woul
 
 1. Contibutions are welcomed.
 2. Contributors are requested to not make changes on master branch. Instead, create new branch and pull request for the changes you made.
+
+# Initial Contributors
+
+1. [Ranjeet Singh](https://github.com/perun-01)
+2. [Hritik Gupta](https://github.com/hritikgupta)
